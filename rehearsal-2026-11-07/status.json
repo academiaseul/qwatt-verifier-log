@@ -1,13 +1,12 @@
 {
   "started_at": "2026-11-07T23:43:28.163Z",
-  "last_tick": "2026-11-08T10:37:26.907Z",
+  "last_tick": "2026-11-08T10:42:17.118Z",
   "last_result": {
-    "action": "error",
-    "reason": "verifier.feed_unavailable",
-    "detail": "head commit of https://raw.githubusercontent.com/academiaseul/qwatt-evidence/main/rehearsal-2026-11-07: fetch failed"
+    "action": "idle",
+    "anchored": 19
   },
   "feed": "https://raw.githubusercontent.com/academiaseul/qwatt-evidence/main/rehearsal-2026-11-07",
-  "feed_commit": "ff8259eac3aa429c6774f41a4bd291944424a9e8",
+  "feed_commit": "1b4b16d76e20b3265c3cae143373aab67238423d",
   "signed": 19,
   "refused": 0
 }
