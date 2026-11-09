@@ -1,13 +1,12 @@
 {
   "started_at": "2026-11-08T23:40:39.417Z",
-  "last_tick": "2026-11-09T00:06:59.677Z",
+  "last_tick": "2026-11-09T00:11:50.668Z",
   "last_result": {
-    "action": "error",
-    "reason": "internal",
-    "detail": "getaddrinfo EAI_AGAIN horizon-testnet.stellar.org"
+    "action": "idle",
+    "anchored": 24
   },
   "feed": "https://raw.githubusercontent.com/academiaseul/qwatt-evidence/main/rehearsal-2026-11-07",
-  "feed_commit": null,
+  "feed_commit": "8cca1c1265943d37d125e11563c8a677dd6009aa",
   "signed": 24,
   "refused": 0
 }
