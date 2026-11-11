@@ -1,9 +1,10 @@
 {
   "started_at": "2026-11-09T23:18:16.706Z",
-  "last_tick": "2026-11-11T18:36:58.864Z",
+  "last_tick": "2026-11-11T18:41:58.775Z",
   "last_result": {
-    "action": "idle",
-    "anchored": 39
+    "action": "error",
+    "reason": "verifier.feed_unavailable",
+    "detail": "head commit of https://raw.githubusercontent.com/academiaseul/qwatt-evidence/main/run: fetch failed"
   },
   "feed": "https://raw.githubusercontent.com/academiaseul/qwatt-evidence/main/run",
   "feed_commit": "065fcedba1a9ec55bac0310f0d5710aff9228b7d",
