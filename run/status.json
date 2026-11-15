@@ -1,12 +1,12 @@
 {
   "started_at": "2026-11-12T19:14:04.108Z",
-  "last_tick": "2026-11-15T17:00:02.888Z",
+  "last_tick": "2026-11-15T17:05:32.877Z",
   "last_result": {
     "action": "idle",
-    "anchored": 133
+    "anchored": 134
   },
   "feed": "https://raw.githubusercontent.com/academiaseul/qwatt-evidence/main/run",
-  "feed_commit": "a4b3aa9f88cd9ec44eec53530cd8a62adea6acf8",
-  "signed": 158,
+  "feed_commit": "4b7d467bf25a76f692ab2a0ce0e2fe95628ed051",
+  "signed": 159,
   "refused": 0
 }
