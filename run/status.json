@@ -1,14 +1,12 @@
 {
   "started_at": "2026-11-12T19:14:04.108Z",
-  "last_tick": "2026-11-16T12:01:40.748Z",
+  "last_tick": "2026-11-16T12:06:34.902Z",
   "last_result": {
-    "action": "anchored",
-    "batch_id": "qwatt-chispa-01-000152",
-    "tx_hash": "d09ef221f060361b3a761124e7f1b5f45bf894fddc2371025cda02b08d1ff2c0",
-    "ledger": 5761371
+    "action": "idle",
+    "anchored": 153
   },
   "feed": "https://raw.githubusercontent.com/academiaseul/qwatt-evidence/main/run",
-  "feed_commit": "0a5be137c5d2ba1fe7bc0b4cfe645cfea910c579",
+  "feed_commit": "006e44e6b7c74a37c24ce333e3dd2ca5e167bb2f",
   "signed": 178,
   "refused": 0
 }
